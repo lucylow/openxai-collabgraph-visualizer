@@ -1,6 +1,3 @@
-Of course. Here is a detailed GitHub README for the CollabGraph project, incorporating its integration with the environmental impact engine.
-
----
 
 # CollabGraph 🌐➡️🌍
 
